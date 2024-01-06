@@ -53,10 +53,11 @@ URL: https://habla.news/fiatjaf/fd6dc37c
 
 資金：採択時にsatsとして送金される
 
-### Gayser Grant
+### Geyser Grant
 URL: https://geyser.fund/grants
 
-概要: *ビットコイン関連*のプロジェクトに資金を提供する取り組み。後述するGayserのクラウドファンディング機能とは別に提供されており、特定のプロジェクトではなくGayserに対して提供された資金およびスポンサーが提供した資金がプロジェクトに付与される。採択方法は2つあり、Gayserの運営による採択と、コミュニティからの投票による採択。申請手段は不明だが、[FAQ](https://geyser.notion.site/About-Geyser-Grants-925d6b2adc1a4043b70d2835ecfebdde)には四半期ごとにひとつのプロジェクトを採択するとの記述がある。Funding educators, creatives and builders doing Bitcoin-only projectsと記載があることから、モノづくりに限らず、広報や情報発信のプロジェクトも支援対象になっている模様
+概要: *ビットコイン関連*のプロジェクトに資金を提供する取り組み。後述するGeyserのクラウドファンディング機能とは別に提供されており、特定のプロジェクトではなくGeyserに対して提供された資金およびスポンサーが提供した資金がプロジェクトに付与される。採択方法は2つあり、Geyserの運営による採択と、コミュニティからの投票による採択。申請手段は不明だが、[FAQ](https://geyser.notion.site/About-Geyser-Grants-925d6b2adc1a4043b70d2835ecfebdde)には四半期ごとにひとつのプロジェクトを採択するとの記述がある。Funding educators, creatives and builders doing Bitcoin-only projectsと記載があることから、モノづくりに限らず、広報や情報発信のプロジェクトも支援対象になっている模様。自前のノードを運営している場合には手数料はゼロ、ライトニングアドレスを利用する（編集推測：それで資金を受け取る）場合には2%の手数料が課される（Grantsのページに記載があるため、後述のクラウドファンディング機能にも適用されるかは不明）
+
 
 資金：採択時にsatsとして送金される
 
@@ -64,12 +65,28 @@ URL: https://geyser.fund/grants
 
 ## Other Fundrasing Methods
 
-### Gayser Fund
+### Geyser Fund
 URL: https://geyser.fund/
 
-概要: *ビットコイン関連*のプロジェクトに、不特定多数の人間が資金を提供する取り組み。前述したGayser Grantとは別に提供されており、サイト上で活動報告や支援者へのリワードの提供が可能
+概要: *ビットコイン関連*のプロジェクトに、不特定多数の人間が資金を提供する取り組み。前述したGayser Grantとは別に提供されており、サイト上で活動報告や支援者へのリワードの提供が可能。
 
-資金：成立時にsatsとして送金される
+資金：成立時にsatsとして送金される（明示されていないため編集による推測です）
+
+```これに関する詳細な記述がありません。そのため最新の情報を上記URLで確認することをおすすめします```
+
+### Heya!
+URL: https://heya.fund/
+
+概要: 不特定多数の人間が資金を提供する取り組み。複数のライトニングウォレットを支援金の送金先として設定できる。手数料はゼロ。このサービスも、OpenSatsの支援を受けて開発された
+
+資金：提供が発生した毎にsatsとして送金される
+
+### Creatr
+URL: https://creatr.nostr.wine/
+
+概要: [Patreon](https://www.patreon.com/home)のように、フォロワーが毎月一定の金額を支払うことでクリエイターを支援する仕組み。金額とそれへのリターンを複数設定することも可能。2023/12/30時点では、資金援助を募るクリエイターは招待制で運営されているため、関心がある方はMazin氏（npub18kzz4lkdtc5n729kvfunxuz287uvu9f64ywhjz43ra482t2y5sks0mx5sz）に要望を出してください
+
+資金：毎月satsとして送金される（明示されていないため編集による推測です）
 
 # Anything else?
 他にあれば、ご連絡ください。プルリクエストをお待ちしております
