@@ -1,18 +1,18 @@
-# Fundraising for Nostr creators
+# Nostrクリエイター向け資金調達手段
 
-## Nostr Grants
+## Nostrグラント（助成金）
 
 ### OpenSats Nostr Fund
-URL: https://opensats.org/projects/nostr
+**URL:** [opensats.org/projects/nostr](https://opensats.org/projects/nostr)
 
 概要: *Nostr protocolとその関連*サービスの開発および改良を支援するためのファンドです。Nostrをよりアクセスしやすく、安全で、分散化され、使いやすくするプロジェクトを支援するために使われます。他にも、Nostrとその可能性について人々を教育するプロジェクトの支援にも役立っています。
 
 資金：米ドルで金額が定められ、毎月の付与時のレートでsatsとして送金される
 
-```採択基準についてサイト上に明示されていませんが、下記のGeneral Fundの採択基準中の「ビットコイン」を「Nostr protocol」に置き換えたものではないかと考えられます。申請前にご自身で運営に確認してください```
+> **注:** 採択基準についてサイト上に明示されていませんが、下記のGeneral Fundの採択基準中の「ビットコイン」を「Nostr protocol」に置き換えたものではないかと考えられます。申請前にご自身で運営に確認してください
 
 ### OpenSats General Fund
-URL: https://opensats.org/projects/general_fund
+**URL:** [opensats.org/projects/general_fund](https://opensats.org/projects/general_fund)
 
 概要: *ビットコイン関連*のオープンソースプロジェクトを支援するためのファンドです。対象となるプロジェクトは、以下の基準を満たしている必要があります。
 1. ビットコインに関連している
@@ -28,7 +28,7 @@ OpenSatsは資金提供申請をすべて審査し、資金提供を決定する
 資金：米ドルで金額が定められ、毎月の付与時のレートでsatsとして送金される
 
 ### The fiatjaf Nostr fund
-URL: https://habla.news/fiatjaf/fd6dc37c
+**URL:** [habla.news/fiatjaf/fd6dc37c](https://habla.news/fiatjaf/fd6dc37c)
 
 概要: fiatjaf氏がその時に関心を持っているテーマのOSSに対して資金を提供する取り組み。2023/12/22時点では下記に関心があると上記URL中で述べています。
 
@@ -49,44 +49,48 @@ URL: https://habla.news/fiatjaf/fd6dc37c
 - 既存のサービスをより美しく、より動作を速くしたもの
 - 非公開リレーの良いユースケース
 
-```上記は意訳が含まれますので、原文を確認することをおすすめします。今何に関心があるかは本人（npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6）に聞いてください```
+> **注:** 上記は意訳が含まれますので、原文を確認することをおすすめします。今何に関心があるかは本人（Nostr npub: `npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6`）に聞いてください
 
 資金：採択時にsatsとして送金される
 
 ### Geyser Grant
-URL: https://geyser.fund/grants
+**URL:** [geyser.fund/grants](https://geyser.fund/grants)
 
-概要: *ビットコイン関連*のプロジェクトに資金を提供する取り組み。後述するGeyserのクラウドファンディング機能とは別に提供されており、特定のプロジェクトではなくGeyserに対して提供された資金およびスポンサーが提供した資金がプロジェクトに付与される。採択方法は2つあり、Geyserの運営による採択と、コミュニティからの投票による採択。申請手段は不明だが、[FAQ](https://geyser.notion.site/About-Geyser-Grants-925d6b2adc1a4043b70d2835ecfebdde)には四半期ごとにひとつのプロジェクトを採択するとの記述がある。Funding educators, creatives and builders doing Bitcoin-only projectsと記載があることから、モノづくりに限らず、広報や情報発信のプロジェクトも支援対象になっている模様。自前のノードを運営している場合には手数料はゼロ、ライトニングアドレスを利用する（編集推測：それで資金を受け取る）場合には2%の手数料が課される（Grantsのページに記載があるため、後述のクラウドファンディング機能にも適用されるかは不明）
+概要: *ビットコイン関連*のプロジェクトに資金を提供する取り組み。後述するGeyserのクラウドファンディング機能とは別に提供されており、Geyserへの寄付・スポンサー資金がプロジェクトに配布される。
 
+- **採択方法:** Geyser運営による選考、またはコミュニティ投票の2種類
+- **支援対象:** ビルダー・教育者・クリエイターのBitcoin-onlyプロジェクト（広報・情報発信も含む）
+- **申請方法:** 詳細不明。[FAQ](https://geyser.notion.site/About-Geyser-Grants-925d6b2adc1a4043b70d2835ecfebdde)には四半期ごとに1プロジェクト採択と記載あり
+- **手数料:** 自前ノード運営時は0%、ライトニングアドレスで受け取る場合は2%（クラウドファンディング機能への適用は不明）
 
 資金：採択時にsatsとして送金される
 
-```2024/1/6現在、これに関する詳細な記述がありません。そのため最新の情報を上記URLで確認することをおすすめします```
+> **注:** 2024/1/6現在、これに関する詳細な記述がありません。そのため最新の情報を上記URLで確認することをおすすめします
 
-## Other Fundrasing Methods
+## その他の資金調達手段
 
 ### Geyser Fund
-URL: https://geyser.fund/
+**URL:** [geyser.fund](https://geyser.fund/)
 
-概要: *ビットコイン関連*のプロジェクトに、不特定多数の人間が資金を提供する取り組み。前述したGayser Grantとは別に提供されており、サイト上で活動報告や支援者へのリワードの提供が可能。
+概要: *ビットコイン関連*のプロジェクトに、不特定多数の人間が資金を提供する取り組み。前述したGeyser Grantとは別に提供されており、サイト上で活動報告や支援者へのリワードの提供が可能。
 
 資金：成立時にsatsとして送金される（明示されていないため編集による推測です）
 
-```これに関する詳細な記述がありません。そのため最新の情報を上記URLで確認することをおすすめします```
+> **注:** これに関する詳細な記述がありません。そのため最新の情報を上記URLで確認することをおすすめします
 
 ### Heya!
-URL: https://heya.fund/
+**URL:** [heya.fund](https://heya.fund/)
 
 概要: 不特定多数の人間が資金を提供する取り組み。複数のライトニングウォレットを支援金の送金先として設定できる。手数料はゼロ。このサービスも、OpenSatsの支援を受けて開発された
 
 資金：提供が発生した毎にsatsとして送金される
 
 ### Creatr
-URL: https://creatr.nostr.wine/
+**URL:** [creatr.nostr.wine](https://creatr.nostr.wine/)
 
-概要: [Patreon](https://www.patreon.com/home)のように、フォロワーが毎月一定の金額を支払うことでクリエイターを支援する仕組み。金額とそれへのリターンを複数設定することも可能。2023/12/30時点では、資金援助を募るクリエイターは招待制で運営されているため、関心がある方はMazin氏（npub18kzz4lkdtc5n729kvfunxuz287uvu9f64ywhjz43ra482t2y5sks0mx5sz）に要望を出してください
+概要: [Patreon](https://www.patreon.com/home)のように、フォロワーが毎月一定の金額を支払うことでクリエイターを支援する仕組み。金額とそれへのリターンを複数設定することも可能。2023/12/30時点では、資金援助を募るクリエイターは招待制で運営されているため、関心がある方はMazin氏（Nostr npub: `npub18kzz4lkdtc5n729kvfunxuz287uvu9f64ywhjz43ra482t2y5sks0mx5sz`）に要望を出してください
 
 資金：毎月satsとして送金される（明示されていないため編集による推測です）
 
-# Anything else?
+# 他にある場合は？
 他にあれば、ご連絡ください。プルリクエストをお待ちしております
