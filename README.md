@@ -1,5 +1,7 @@
 # Nostrクリエイター向け資金調達手段
 
+*[English version / 英語版](./README.en.md)*
+
 ## Nostrグラント（助成金）
 
 ### OpenSats Nostr Fund
